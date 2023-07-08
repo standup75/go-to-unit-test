@@ -1,8 +1,11 @@
 {
   "name": "go-to-unit-test",
   "displayName": "Go To Unit Test",
-  "description": "Link a function name to the existing unit test function is it exists. The only requirement is the the test file has the .test.ts extension and contains `describe(functionName)`",
-  "version": "0.0.1",
+  "description": "Link a function name to the existing unit test function is it exists. The only requirement is that the test file has the .test.ts extension and contains `describe(functionName)`",
+  "version": "0.0.3",
+  "repository": "https://github.com/standup75/go-to-unit-test.git",
+  "publisher": "StanislasDuprey",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.80.0"
   },

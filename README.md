@@ -2,7 +2,11 @@
 
 ## Features
 
-Show the functions that are covered by unit tests
+- Show the functions that are covered by unit tests by highlighting the function in the source code with a green background
+
+![sample](images/sample.png)
+
+- Jump to the source code. Have the cursor on the function name and open the command palette and search for "go to unit test", alternatively assign a keybord shortcut to this command
 
 ## Requirements
 
